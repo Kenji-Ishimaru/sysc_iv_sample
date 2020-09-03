@@ -23,7 +23,7 @@ SYSTEMC_DIR=/usr/local/systemc-2.3.3
 ## Running the simulation
 
 ```
-git https://github.com/Kenji-Ishimaru/sysc_iv_sample.gitSYSTEMC_DIR=/usr/local/systemc-2.3.3
+git https://github.com/Kenji-Ishimaru/sysc_iv_sample.git
 
 cd sysc-iv-sample/work
 ../bin/run_iv.sh ../scenario/test_1.v
